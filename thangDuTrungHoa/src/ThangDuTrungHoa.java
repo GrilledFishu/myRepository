@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//test
+
 public class ThangDuTrungHoa {
 
     public static void main(String[] args) {
